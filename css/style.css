@@ -1,0 +1,93 @@
+body{
+    background-color:antiquewhite;
+}
+h1 {
+    font-size: 60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 1em;
+    font-weight: bold;
+}
+header p{
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 5em;
+    font-weight: lighter;
+    margin-top: -0.3em;
+}
+header img{
+    height: 50px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+aside img{
+    height: 500px;
+    width: auto;
+}
+#for img{
+    height: 500px;
+    width: auto;
+}
+aside p{
+    font-size: 30px;
+    margin-bottom: 1em;
+}
+.jez {
+    display: inline-block;
+    border: 0.1px solid gray;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-left: 5em;
+  }
+h2{
+    font-size: 40px;
+    margin-top: 2em;
+    margin-left: 1em;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div .cislo{
+    margin-left: 0.7em;
+    font-weight: bold;
+    font-size: 25px;
+}
+.charles{
+    margin-left: 1em;
+    font-size: 15px;
+    margin-top: -1em;
+    font-weight: lighter;
+}
+.tym {
+    margin-left: 0.7em;
+    font-size: 25px;
+    color: gray;
+    margin-top: -1em;
+}
+.cc{
+    margin-left: 4em; 
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: -2em;
+    display: inline-block;
+    padding: 1rem 1rem;
+    vertical-align: middle;
+    margin-left: 2.5em;
+}
+.text{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 3.5em;
+    margin-bottom: -0.5em;
+}
+footer{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 2em;
+    margin-top: 5em;
+}
+.his{
+    font-size: 20px;
+    margin-left: 3em;
+    text-decoration: dashed;
+    margin-top: -0.5em;
+    font-weight: lighter;
+}
